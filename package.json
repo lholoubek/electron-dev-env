@@ -1,0 +1,16 @@
+{
+  "name": "electron-dev-env",
+  "version": "1.0.0",
+  "description": "Configuration for basic Electron development environment",
+  "main": "main.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron-connect": "^0.4.2",
+    "electron-prebuilt": "^1.2.5",
+    "gulp": "^3.9.1"
+  }
+}
